@@ -1,5 +1,5 @@
-import resume from "@/assets/Nabeel_Resume.pdf";
-import profileImage from "@/assets/nabeelsmile.jpg";
+import resume from "@/assets/NABEEL_K_CV..pdf";
+import profileImage from "@/assets/unnamed.jpg";
 
 export const profile = {
   name: "Muhammed Nabeel K",
@@ -15,7 +15,7 @@ export const profile = {
   instagram: "https://www.instagram.com/nabeeel.6?igsh=aTVsemtwM2I3cjlw",
   whatsapp: "https://wa.me/918136967789",
   intro:
-    "I build production-ready web applications end to end — accessible React and Next.js interfaces on the front, Django REST APIs and relational databases on the back.",
+    "I build production-ready web applications end to end — accessible React and Next.js interfaces on the front, Django REST APIs and relational databases on the back.I also use AI as a problem-solving and development tool — to investigate unfamiliar concepts, debug issues, explore different approaches, and move from a problem to a working solution.",
   valueProp:
     "Six months of hands-on full-stack training, a live team CRM shipped with industry workflows, and a hackathon product designed and built in days.",
 };
@@ -125,7 +125,7 @@ export const projects: Project[] = [
   {
     title: "Skill-Link — Local Job Finding App",
     kicker: "Hackathon Project",
-    desc: "A team hackathon Frontend product that helps people discover local work near them.",
+    desc: "A team hackathon Frontend product that helps people discover local work near them.Responsible for product card",
     tags: ["Hackathon", "React", "UI Design"],
     features: [
       "Job discovery flow designed from scratch under time pressure",

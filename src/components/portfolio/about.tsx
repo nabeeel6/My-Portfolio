@@ -1,5 +1,5 @@
 import { Reveal, Section, SectionHeading } from "./section";
-import { Braces, GraduationCap, ShieldCheck, Sparkles, Users } from "lucide-react";
+import { Braces, GraduationCap, ShieldCheck, Sparkles, Users, Palette } from "lucide-react";
 
 const pillars = [
   {
@@ -8,7 +8,7 @@ const pillars = [
     body: "I write component-driven React and Django REST code that ships — CRUD flows, auth, integrated APIs, and databases that hold up under real data.",
   },
   {
-    icon: Sparkles,
+    icon: Palette,
     title: "Frontend as a craft",
     body: "Interfaces are where I go deepest: layout, spacing, responsiveness and the small interactions that make a product feel finished.",
   },
@@ -27,6 +27,12 @@ const pillars = [
     title: "Continuous learning",
     body: "Currently upskilling with NxtWave CCBP 4.0 Academy and a BCA at IGNOU — sharpening DSA, fundamentals and modern full-stack tooling.",
   },
+  {
+  icon: Sparkles,
+  title: "AI-assisted problem solving",
+  body: "I use AI as a problem-solving partner to describe problems, ask the right questions, explore solutions, and turn concepts into practical plans and results. Whether I’m stuck on a development task or facing an unfamiliar problem, AI helps me find a way forward and keep learning along the way.",
+},
+
 ];
 
 export function About() {
