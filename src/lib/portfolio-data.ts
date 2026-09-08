@@ -77,7 +77,7 @@ export const projects: Project[] = [
   {
     title: "CRM — Live Team Project",
     kicker: "Feb 2026 – May 2026 · UPCODE",
-    desc: "A real-time, team-based CRM built inside a working software lab, following industry development practices and collaboration workflows.",
+    desc: "A real-time, team-based CRM built inside a working software lab, following industry development practices and collaboration workflows.Responsible for Ticket management module(Frontend development)",
     tags: ["React", "Django REST","Python", "PostgreSQL", "Git Flow"],
     features: [
       "Role-based modules for customer and lead records",
