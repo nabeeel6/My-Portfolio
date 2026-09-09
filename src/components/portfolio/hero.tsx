@@ -156,7 +156,7 @@ export function Hero() {
             className="card-elevated absolute -bottom-5 -left-4 hidden rounded-2xl px-4 py-3 sm:block"
           >
             <p className="font-mono text-xs text-muted-foreground">Currently</p>
-            <p className="text-sm font-semibold">Building full-stack products</p>
+            <p className="text-sm font-semibold">Building Products</p>
           </motion.div>
         </motion.div>
       </div>
