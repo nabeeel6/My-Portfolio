@@ -88,7 +88,7 @@ export const projects: Project[] = [
     repo: "https://github.com/nabeeel6/janko-ai-travel-guide",
     demo: "https://janko-ai-travel-guide.onrender.com",
     featured: true,
-    category: "Team",
+    category: "Full-Stack",
   },{
     title: "CRM — Live Team Project",
     kicker: "Feb 2026 – May 2026 · UPCODE",
