@@ -1,5 +1,5 @@
 import resume from "@/assets/NABEEL_K_CV..pdf";
-import profileImage from "@/assets/unnamed.jpg";
+import profileImage from "@/assets/morebluredlevelxnabeelpic.png";
 
 export const profile = {
   name: "Muhammed Nabeel K",
