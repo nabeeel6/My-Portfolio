@@ -8,6 +8,7 @@ import shopcoImg from "@/assets/shop.copp.png";
 import nextImg from "@/assets/nextjspp.png";
 import skillLinkImg from "@/assets/sss.jpg";
 import reduxImg from "@/assets/rrp.png";
+import jankoImg from "@/assets/Janko-ai-travel-guide-img.png"
 
 const images: Record<string, string> = {
   "CRM — Live Team Project": crmImg,
@@ -15,6 +16,7 @@ const images: Record<string, string> = {
   "E-Commerce Frontend — Next.js": nextImg,
   "Skill-Link — Local Job Finding App": skillLinkImg,
   "E-Commerce Frontend — React + Redux": reduxImg,
+  "Janko AI Travel Guide": jankoImg,
 };
 
 const filters = ["All", "Full-Stack", "Frontend", "Team"] as const;

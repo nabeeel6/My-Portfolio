@@ -75,6 +75,21 @@ export type Project = {
 
 export const projects: Project[] = [
   {
+    title: "Janko AI Travel Guide",
+    kicker: "oct 2026 · LevelX (NxtWave)",
+    desc: "AI Travel Guide · Completed · LevelX Vijayawada Workshop",
+    tags: ["HTML","JavaScript","Python", "FLask", "PostgreSQL", "Gemini API","Murf AI API","Rest APi","Render" ],
+    features: [
+      "An AI-powered travel guide that provides AI-generated information and audio guides for selected destinations, with multilingual support.",
+     
+    ],
+    challenge:
+      "",
+    repo: "https://github.com/nabeeel6/janko-ai-travel-guide",
+    demo: "https://janko-ai-travel-guide.onrender.com",
+    featured: true,
+    category: "Team",
+  },{
     title: "CRM — Live Team Project",
     kicker: "Feb 2026 – May 2026 · UPCODE",
     desc: "A real-time, team-based CRM built inside a working software lab, following industry development practices and collaboration workflows.Responsible for Ticket management module(Frontend development)",
